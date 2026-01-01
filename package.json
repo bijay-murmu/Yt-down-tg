@@ -7,9 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "telegraf": "^4.16.3",
-    "ytdl-core": "^4.11.5",
-    "fluent-ffmpeg": "^2.1.2",
-    "ffmpeg-static": "^5.2.0"
+    "telegraf": "^4.16.3"
   }
 }
