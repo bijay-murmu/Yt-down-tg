@@ -2,7 +2,7 @@ import { Telegraf } from "telegraf";
 import { exec } from "child_process";
 import fs from "fs";
 
-const bot = new Telegraf("PASTE_YOUR_BOT_TOKEN");
+const bot = new Telegraf("7653619302:AAFC5awOLf0tBK7RcxYAb_wjH00FD2oYv84");
 
 bot.start(ctx => {
   ctx.reply("👋 Send YouTube Shorts link");
